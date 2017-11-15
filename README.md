@@ -1,6 +1,18 @@
 # BeeHive
 
-Given the following (i) Raspberry Pi (ii) Wi-Fi dongle (iii) infrared Raspberry Pi campera and (iv) bee hive housing box - make a live-streaming bee hive box for Kendal's Bees that consumes minimal power and can sustain weather conditions of being on top of the Redwood City Library during the seasons.
+Given the following: 
+
+(i) Raspberry Pi 
+
+(ii) Wi-Fi dongle 
+
+(iii) infrared Raspberry Pi campera and 
+
+(iv) bee hive housing box
+
+...
+
+make a live-streaming bee hive box for Kendal's Bees that consumes minimal power and can sustain weather conditions of being on top of the Redwood City Library during the seasons.
 
 # Table of Contents
 
