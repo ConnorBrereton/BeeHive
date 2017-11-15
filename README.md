@@ -25,8 +25,10 @@ make a live-streaming bee hive box for Kendal's Bees that consumes minimal power
  IV. Additional resources for modifying (iii).
  
  V. What to do after you make significant changes to your Raspberry Pi's settings.
+ 
+ VI. Starting and stopping the livestreaming
 
-# RPI IP Address
+# RPi IP Address
 
 Finding the IP address of your Raspberry Pi seems like a daunting task but it is actually quite simple. This can simply be done by opening the terminal application in your Raspberry Pi GUI and typing **hostname -I** after the command prompt which looks like this **pi@raspberrypi:~$**. Be sure to take note of this as it is a critical piece of information to have on hand when you want to make changes to your RPI when you're not physically present next to it.
 
