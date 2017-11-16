@@ -68,4 +68,5 @@ To end the livestreaming enter the following commands: **docker stop cam**
 Some of the edge cases that have been considered are the following 
 
 (i) heat transfer from the Raspberry Pi to the bee's habitat inside of the box 
+
 (ii) overheating of the Raspberry Pi on hot days since it is on the roof
